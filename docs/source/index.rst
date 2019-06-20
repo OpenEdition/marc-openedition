@@ -1,8 +1,6 @@
 OpenEdition MARC Records Documentation 
 ============================================
 
-.. warning :: This documentation is a **draft version**
-
 .. image:: _static/openedition.png
 
 OpenEdition provides bibliographic metadata for the documents published on `OpenEdition Books <https://books.openedition.org>`_ and `OpenEdition Journals <https://journals.openedition.org>`_ as `MARC records <http://www.loc.gov/marc/umb/>`_. Alternatively, OpenEdition metadata can be harvested using `OpenEdition OAI-PMH repository <https://oai-openedition.readthedocs.io/>`_.
