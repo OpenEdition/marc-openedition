@@ -41,7 +41,7 @@ Selected MARC records
 
 .. note :: Access to specific MARC records is only available for authorized users (`OpenEdition Freemium partners <https://www.openedition.org/14043?lang=en>`_)
 
-OpenEdition offers to its partners the possibility to specifically download MARC records for the content they subscribed to. This can be achieved connecting to the `OpenEdition Freemium platform <https://freemium.openedition.org/>`_.
+OpenEdition offers to its partners the possibility to specifically download MARC records for the content they subscribed to. This can be achieved connecting to the `Library Back Office <https://freemium.openedition.org/library/>`_.
 
 
 Z39.50
