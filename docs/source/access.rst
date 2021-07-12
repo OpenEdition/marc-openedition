@@ -14,27 +14,27 @@ Anyone can freely download a full record of OpenEdition MARC metadata, consistin
 * OpenEdition Journals Collections
 	This record provides bibliographic metadata for all journals published on `OpenEdition Journals <https://journals.openedition.org/>`_:
 
-	* http://marc.openedition.org/openedition-journals-collections-UNIMARC.iso2709 (UNIMARC)
-	* http://marc.openedition.org/openedition-journals-collections-MARC21.iso2709 (MARC21)
+	* https://marc.openedition.org/openedition-journals-collections-UNIMARC.iso2709 (UNIMARC)
+	* https://marc.openedition.org/openedition-journals-collections-MARC21.iso2709 (MARC21)
 
 
 * OpenEdition Journals Issues
 	This record provides bibliographic metadata for all journals issues published on `OpenEdition Journals <https://journals.openedition.org/>`_:
 
-	* http://marc.openedition.org/openedition-journals-issues-UNIMARC.iso2709 (UNIMARC)
-	* http://marc.openedition.org/openedition-journals-issues-MARC21.iso2709 (MARC21)
+	* https://marc.openedition.org/openedition-journals-issues-UNIMARC.iso2709 (UNIMARC)
+	* https://marc.openedition.org/openedition-journals-issues-MARC21.iso2709 (MARC21)
 
 * OpenEdition Books
 	This record provides bibliographic metadata for all books published on `OpenEdition Books <https://books.openedition.org/>`_:
 
-	* http://marc.openedition.org/openedition-books-UNIMARC.iso2709 (UNIMARC)
-	* http://marc.openedition.org/openedition-books-MARC21.iso2709 (MARC21)
+	* https://marc.openedition.org/openedition-books-UNIMARC.iso2709 (UNIMARC)
+	* https://marc.openedition.org/openedition-books-MARC21.iso2709 (MARC21)
 
 * All OpenEdition
 	Alternatively, one may download a compressed folder (zip file) containing all three dumps described above:
 
-	* http://marc.openedition.org/all-openedition-unimarc.zip (UNIMARC)
-	* http://marc.openedition.org/all-openedition-marc21.zip (MARC21)
+	* https://marc.openedition.org/all-openedition-unimarc.zip (UNIMARC)
+	* https://marc.openedition.org/all-openedition-marc21.zip (MARC21)
 
 Selected MARC records
 ----------------------
